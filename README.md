@@ -4,4 +4,4 @@
 3. Utilized Microsoft Excel to calculate and calibrate distances based on ultrasonic sensor readings, ensuring precise navigation capabilities for the surveillance robot.
 4. Enabled navigation with SR04 ultrasonic sensors and integrated TSOP13438 IR demodulator for command decoding, achieving robust functionality for surveillance operations.
 5. Utilized onboard LEDs for error simulation upon motion detection, demonstrating real-time monitoring capabilities in a controlled environment.
-6. Employed an ARM M4F core microcontroller (TM4C123GH6PMI) and configured UART0 tx/rx pair for serial communication, leveraging the EK-TM4C123GXL evaluation board's capabilities for seamless integration and testing.
+
