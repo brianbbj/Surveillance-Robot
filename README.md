@@ -3,4 +3,4 @@
 2. Managed power distribution by exclusively using a switched 4xAA NiMH battery source for motors and provided microcontroller power options, ensuring compliance with voltage specifications to prevent damage.
 3. Utilized Microsoft Excel to calculate and calibrate distances based on ultrasonic sensor readings, ensuring precise navigation capabilities for the surveillance robot.
 4. Enabled navigation with SR04 ultrasonic sensors and integrated TSOP13438 IR demodulator for command decoding, achieving robust functionality for surveillance operations.
-
+5. Utilized onboard LEDs for error simulation upon motion detection, demonstrating real-time monitoring capabilities in a controlled environment.
