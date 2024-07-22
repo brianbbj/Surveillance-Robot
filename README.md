@@ -4,3 +4,5 @@
 3. Utilized Microsoft Excel to calculate and calibrate distances based on ultrasonic sensor readings, ensuring precise navigation capabilities for the surveillance robot.
 4. Enabled navigation with SR04 ultrasonic sensors and integrated TSOP13438 IR demodulator for command decoding, achieving robust functionality for surveillance operations.
 
+
+
