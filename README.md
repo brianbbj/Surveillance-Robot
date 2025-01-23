@@ -5,5 +5,6 @@
 4. Enabled navigation with SR04 ultrasonic sensors and integrated TSOP13438 IR demodulator for command decoding, achieving robust functionality for surveillance operations.
 
 <p align="center">
-<img src="IMG_0742.jpeg" width="500">
+  <img src="IMG_0742.jpeg" width="45%" style="margin-right: 5px;">
+  <img src="IMG_0742.jpeg" width="45%">
 </p>
