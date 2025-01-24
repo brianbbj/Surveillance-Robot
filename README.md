@@ -6,30 +6,13 @@ This engineering project focuses on creating a surveillance robot with IR remote
 </p>
 <p align="center">
   <b>Figure 1:</b> Image of the Product
-  
-## 💡 Key Features
-<p align="center">
-  <img src="Robot Travel.jpg" alt="Robot Front" style="width: 500px;">
-</p>
-<p align="center">
-<b>Figure 2:</b> Robot on Autonmous Navigation
-
-- **Remote Control:** Operates using an IR remote control with NEC protocol decoding.
-- **Autonomous Navigation:** Uses ultrasonic sensors to detect and avoid obstacles.
-- **Motion Detection:** PIR sensor detects heat sources and simulates alerts using on-board LEDs.
-- **Odometry Feedback:** Optical interrupters provide wheel rotation data for tracking movement.
-- **Compact Power Supply:** Powered by a 4xAA NiMH battery pack, ensuring safe voltage levels for all components.
-- **Motor Control:** A DRV8833 dual H-bridge driver controls two DC motors for smooth operation.
-- **Error Simulation:** On-board LEDs simulate error signals when motion is detected.
-- **Modular Design:** 3D-printed components for the base, wheels, and sensor mounts provide easy assembly and customization.
-- **Serial Communication:** A UART interface enables monitoring and debugging via a virtual COM port.
 
 ## 🛠 Hardware Components
   <p align="center">
-  <img src="Robot Circuit Layout.jpeg" alt="Feeder Top" style="width: 500px;">
+  <img src="Robot Parts.jpeg" alt="Feeder Top" style="width: 500px;">
 </p>
 <p align="center">
-  <b>Figure 2:</b> Circuit Layout
+  <b>Figure 2:</b> Components used to build the Surveillance Robot
 
   |                         |
   | ------------------------|
@@ -44,6 +27,25 @@ This engineering project focuses on creating a surveillance robot with IR remote
   | - IR Remote Control |
   | - Passive Components |
 
+  
+## 💡 Key Features
+<p align="center">
+  <img src="Robot Travel.jpg" alt="Robot Front" style="width: 500px;">
+</p>
+<p align="center">
+<b>Figure 3:</b> Robot on Autonmous Navigation
+
+- **Remote Control:** Operates using an IR remote control with NEC protocol decoding.
+- **Autonomous Navigation:** Uses ultrasonic sensors to detect and avoid obstacles.
+- **Motion Detection:** PIR sensor detects heat sources and simulates alerts using on-board LEDs.
+- **Odometry Feedback:** Optical interrupters provide wheel rotation data for tracking movement.
+- **Compact Power Supply:** Powered by a 4xAA NiMH battery pack, ensuring safe voltage levels for all components.
+- **Motor Control:** A DRV8833 dual H-bridge driver controls two DC motors for smooth operation.
+- **Error Simulation:** On-board LEDs simulate error signals when motion is detected.
+- **Modular Design:** 3D-printed components for the base, wheels, and sensor mounts provide easy assembly and customization.
+- **Serial Communication:** A UART interface enables monitoring and debugging via a virtual COM port.
+
+
 
 ## 🎛️ Capabilities
 
@@ -53,7 +55,7 @@ With UART communication, the robot can execute a 360-degree turn by independentl
   <img src="Robot Angle Calculation.jpeg" alt="Feeder Top" style="width: 500px;">
 </p>
 <p align="center">
-  <b>Figure 3:</b> This figure shows the process used for calculating the robot's angle and direction 
+  <b>Figure 4:</b> This figure shows the process used for calculating the robot's angle and direction 
   
 ### Motor Control for Directional Movement:
 
