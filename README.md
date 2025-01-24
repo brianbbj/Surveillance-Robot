@@ -13,7 +13,13 @@ This engineering project focuses on creating a surveillance robot with IR remote
 </p>
 <p align="center">
   <b>Figure 2:</b> Components used to build the Surveillance Robot
+  <p align="center">
+  <img src="Robot Circuit Layout.jpeg" alt="Feeder Top" style="width: 500px;">
+</p>
+<p align="center">
+    <b>Figure 3:</b> Circuit Layout for Robot in PCB Board
 
+  
   |                         |
   | ------------------------|
   | - TM4C123GXL Board  |
@@ -33,7 +39,7 @@ This engineering project focuses on creating a surveillance robot with IR remote
   <img src="Robot Travel.jpg" alt="Robot Front" style="width: 500px;">
 </p>
 <p align="center">
-<b>Figure 3:</b> Robot on Autonmous Navigation
+<b>Figure 4:</b> Robot on Autonmous Navigation
 
 - **Remote Control:** Operates using an IR remote control with NEC protocol decoding.
 - **Autonomous Navigation:** Uses ultrasonic sensors to detect and avoid obstacles.
@@ -55,7 +61,7 @@ With UART communication, the robot can execute a 360-degree turn by independentl
   <img src="Robot Angle Calculation.jpeg" alt="Feeder Top" style="width: 500px;">
 </p>
 <p align="center">
-  <b>Figure 4:</b> This figure shows the process used for calculating the robot's angle and direction 
+  <b>Figure 5:</b> This figure shows the process used for calculating the robot's angle and direction 
   
 ### Motor Control for Directional Movement:
 
